@@ -168,7 +168,7 @@ Widget _buildTaskTile(Task task, int index) {
 
 Run atau tekan F5 untuk melihat hasil aplikasi yang Anda telah buat. Capture hasilnya untuk soal praktikum nomor 4.
 
-<img src="img/images_1.jpg" width="30%">
+<img src="img/img_1.jpg" width="30%">
 
 ### Langkah 10: Tambah Scroll Controller
 
@@ -213,7 +213,7 @@ void dispose() {
 
 ### Langkah 14: Hasil
 
-<img src="img/images_2.jpg" width="30%">
+<img src="img/img_2.jpg" width="30%">
 
 2. Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
 
@@ -225,7 +225,7 @@ Jawab : Variabel plan diinisialisasi sebagai konstanta (const) karena nilainya d
 
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
-<img src="img/images_2.jpg">
+<img src="img/img_2.jpg">
 
 Penjelasan -> Membuat tampilan untuk menambahkan textfield dan terdapat cek box yang bisa dicek list
 
